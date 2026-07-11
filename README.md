@@ -15,3 +15,6 @@ Sume tambien el formspree y use pages
 3. **Las Reseñas:** Los comentarios de los clientes los acomodan. Se adaptan tambien
 4. **Contacto:** El formulario para que me manden consultas, vinculado con Formspree, para ver si me llega alguna consulta por mail
 5. **En línea:** Ya lo subí a GitHub Pages y quedó la página andando en el hosting de Git con HTTPS
+
+Se agrego el JSON para el local storage
+Estilo tipo tienda para poder comprar, acceder al sitio para loguearse y registrarse.
